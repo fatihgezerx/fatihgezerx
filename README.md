@@ -22,3 +22,4 @@ Skills: Unity C# / Unreal Engine Blueprint
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatihgezerx&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fatihgezerx)  
+
