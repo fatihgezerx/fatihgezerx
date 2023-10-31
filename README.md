@@ -7,7 +7,7 @@ Skills: Unity C# / Unreal Engine Blueprint
 - 🔭 I’m currently working on Unity & Unreal 
 - 🌱 I’m currently learning C# & Blueprint 
 - 👯 I’m looking to collaborate on new video game 
-- 📫 How to reach me: fatihgeze@gmail.com 
+- 📫 How to reach me: fatihgezer@gmail.com 
 - 😄 Pronouns: Fatih 
 
 
